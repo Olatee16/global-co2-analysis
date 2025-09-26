@@ -10,7 +10,7 @@
 ## 📊 Visualizations
 
 **CO₂ Per Capita by Country (2000–2011)**  
-(https://github.com/Olatee16/global-co2-analysis/blob/main/CO2%20Sheet%201.PNG)
+![Per capita Emissions](./assets/average_co2_per_capita.PNG)
 
 **Total CO₂ Production by Region (1960–2011)**  
 (https://github.com/Olatee16/global-co2-analysis/blob/main/CO2%20Sheet%202.PNG)
