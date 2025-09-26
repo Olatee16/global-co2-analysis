@@ -16,7 +16,7 @@
 (https://github.com/Olatee16/global-co2-analysis/blob/main/CO2%20Sheet%202.PNG)
 
 **Dashboard Overview**  
-![Dashboard](./assets/dashboard_overview.png)
+![Dashboard](./assets/co2_dashboard_1.PNG)
 
 👉 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/DashboardsStarterTemplate_17570045049280/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
